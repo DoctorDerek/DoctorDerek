@@ -2,6 +2,15 @@
 
 # ★ 20+ years of SWE · 500+ articles · 21k+ followers · [DoctorDerek.com](https://DoctorDerek.com)
 
-# ★ Specialist product engineer focused on TypeScript + React + Next.js + Tailwind CSS + XState + Node.js since 2019.
+# ★ Specialist product engineer focused on TypeScript + React + Next.js + Tailwind CSS + Node.js since 2019.
 
-# ★ Expert in cross-platform dev (React Native + Expo), SQL and NoSQL (Postgres + DynamoDB), automated testing (React Testing Library + Playwright), cloud infrastructure (Vercel + AWS), and CI/CD (GitHub Actions + EAS).
+# ★ Expert in:
+- **Full-Stack TypeScript** (React + Node.js)
+- **UI/UX & Performance** (Next.js + Tailwind CSS)
+- **Delivering MVPs ASAP** (in <3 months)
+- **Cross-Platform iOS & Android:** React Native + Expo
+- **State Management:** Redux + XState
+- **SQL & NoSQL Databases:** Postgres + DynamoDB
+- **Automated Testing:** React Testing Library + Playwright
+- **Cloud Infrastructure:** Vercel + AWS
+- **CI/CD:** GitHub Actions + Docker
