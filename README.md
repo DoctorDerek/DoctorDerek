@@ -5,6 +5,7 @@
 # ★ Specialist product engineer focused on TypeScript + React + Next.js + Tailwind CSS + Node.js since 2019.
 
 # ★ Expert in:
+
 - **Full-Stack TypeScript** (React + Node.js)
 - **UI/UX & Performance** (Next.js + Tailwind CSS)
 - **Delivering MVPs ASAP** (in <3 months)
