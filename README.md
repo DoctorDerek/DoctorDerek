@@ -1,6 +1,6 @@
 # ★ AI-native senior full-stack SWE and UI/UX engineer seeking a full-time remote role as a “code owner” at a US startup.
 
-# ★ 20+ years of SWE · 3,200+ GitHub contributions this year · 500+ technical articles · 21k+ Medium followers · [DoctorDerek.com](https://DoctorDerek.com)
+# ★ 20+ years of SWE · 4,000+ GitHub contributions this year · 500+ technical articles · 21k+ Medium followers · [DoctorDerek.com](https://DoctorDerek.com)
 
 # ★ Specialist product engineer focused on TypeScript + React + Next.js + Tailwind CSS + Node.js since 2019.
 
