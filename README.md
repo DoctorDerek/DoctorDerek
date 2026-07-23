@@ -8,15 +8,16 @@
 
 # ★ Expert in:
 
-- **Full-Stack TypeScript** (React + Node.js)
+- **Full-Stack TypeScript Monorepos** (React + Node.js)
 - **AI-Native Engineering** (Specifications + Context Engineering + Agent Orchestration + Human Verification)
 - **End-to-End Product Ownership** (Specification → Production)
 - **Delivering MVPs ASAP** (in <3 months)
-- **UI/UX & Performance** (Next.js + Tailwind CSS)
-- **Cross-Platform iOS & Android** (React Native + Expo)
+- **UI/UX & Design Engineering** (Design Systems + Motion Design + Performance)
+- **Tailwind CSS & Component Systems** (shadcn/ui + React Native Reusables + Uniwind)
+- **Cross-Platform Web, iOS & Android** (Next.js + React Native + Expo)
 - **State Management** (Redux + XState)
 - **SQL & NoSQL Databases** (Postgres + DynamoDB)
-- **Automated Testing & Coverage** (React Testing Library + Playwright + Codecov)
+- **Automated Testing & Coverage** (Testing Trophy + Vitest + React Testing Library + Playwright + Codecov)
 - **Cloud Infrastructure** (Vercel + AWS)
 - **CI/CD** (GitHub Actions + Docker)
 - **Mobile Release Engineering** (EAS Build/Submit + OTA Updates + Automated Versioning)
