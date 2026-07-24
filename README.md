@@ -4,7 +4,7 @@
 
 # ★ Specialist product engineer focused on TypeScript + React + Next.js + Tailwind CSS + Node.js since 2019 and on React Native + Expo for iOS and Android since 2023.
 
-# ★ I orchestrate coding agents using functional specifications, technical architecture, and persistent project context, then verify their output through human review, automated testing, and manual QA.
+# ★ I orchestrate AI coding agents using functional specifications, technical architecture, and persistent context, then verify output through human review, automated testing, and manual QA.
 
 # ★ Expert in:
 
