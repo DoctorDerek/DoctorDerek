@@ -1,4 +1,4 @@
-# ★ AI-native senior full-stack SWE and UI/UX engineer seeking a full-time remote role as a “code owner” at a US startup.
+# ★ I'm an AI-native senior full-stack SWE and UI/UX engineer. I'm actively seeking a long-term, full-time role as a full-stack SWE and code owner at a US startup.
 
 # ★ 20+ years of SWE · 5,000+ GitHub contributions this year · 500+ technical articles · 21k+ Medium followers · [DoctorDerek.com](https://DoctorDerek.com)
 
