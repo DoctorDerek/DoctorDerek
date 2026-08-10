@@ -21,4 +21,4 @@
 - **Automated Testing & Coverage** (Testing Trophy + Vitest + React Testing Library + Playwright + Codecov)
 - **Cloud Infrastructure** (Vercel + AWS)
 - **CI/CD** (GitHub Actions + Docker)
-- **Mobile Release Engineering** (EAS Build/Submit + App Store/Google Play + OTA Updates + Automated Versioning)
+- **Mobile Release Engineering** (EAS Build/Submit + App Store & Google Play + OTA Updates + Automated Versioning)
