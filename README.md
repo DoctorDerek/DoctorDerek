@@ -4,20 +4,21 @@
 
 # ★ Specialist product engineer focused on TypeScript + React + Next.js + Tailwind CSS + Node.js since 2019 and on React Native + Expo for iOS and Android since 2023.
 
-# ★ I orchestrate AI coding agents using functional specifications, technical architecture, and persistent context, then verify output through human review, automated testing, and manual QA.
+# ★ I orchestrate AI coding agents using functional specifications, technical architecture, and persistent context before verifying their output through human review, automated testing, and manual QA.
 
 # ★ Expert in:
 
-- **Full-Stack TypeScript Monorepos** (React + Node.js)
-- **AI-Native Engineering** (Specifications + Context Engineering + Agent Orchestration + Human Verification)
-- **End-to-End Product Ownership** (Specification → Production)
-- **Delivering MVPs ASAP** (in <3 months)
+- **Full-Stack TypeScript Monorepos** (Web + Mobile + Backend + Infrastructure + Shared Packages)
+- **AI-Native Engineering** (Functional Specifications + Context Engineering + Agent Orchestration + Human Verification)
+- **End-to-End Product Ownership** (Define → Architect → Build → Verify → Release → Observe → Iterate)
+- **Production-Ready MVP Delivery ASAP** (Under 3 Months)
 - **UI/UX & Design Engineering** (Design Systems + Motion Design + Performance)
 - **Tailwind CSS & Component Systems** (shadcn/ui + React Native Reusables + Uniwind)
 - **Cross-Platform Web, iOS & Android** (Next.js + React Native + Expo)
+- **Backend & API Engineering** (Node.js + Express + REST + GraphQL)
 - **State Management** (Redux + XState)
-- **SQL & NoSQL Databases** (Postgres + DynamoDB)
+- **SQL & NoSQL Databases** (PostgreSQL + DynamoDB)
 - **Automated Testing & Coverage** (Testing Trophy + Vitest + React Testing Library + Playwright + Codecov)
 - **Cloud Infrastructure** (Vercel + AWS)
 - **CI/CD** (GitHub Actions + Docker)
-- **Mobile Release Engineering** (EAS Build/Submit + OTA Updates + Automated Versioning)
+- **Mobile Release Engineering** (EAS Build/Submit + App Store/Google Play + OTA Updates + Automated Versioning)
