@@ -1,19 +1,18 @@
-# ★ I'm an AI-native senior full-stack SWE and UI/UX engineer. I'm actively seeking a long-term, full-time role as a full-stack SWE and code owner at a US startup.
+# ★ I'm an AI-native senior full-stack SWE and UI/UX engineer. I'm actively seeking a long-term, full-time role as a senior full-stack product engineer at a US company.
 
-# ★ 20+ years of SWE · 8,000+ GitHub contributions this year · 500+ technical articles · 21k+ Medium followers · [DoctorDerek.com](https://DoctorDerek.com)
+# ★ 20+ years of SWE · 9,000+ GitHub contributions this year · 500+ technical articles · 21k+ Medium followers · [DoctorDerek.com](https://DoctorDerek.com)
 
-# ★ Specialist product engineer focused on TypeScript + React + Next.js + Tailwind CSS + Node.js since 2019 and on React Native + Expo for iOS and Android since 2023.
+# ★ Full-stack product engineer specializing in TypeScript + React + Next.js + Tailwind CSS + Node.js since 2019 and in React Native + Expo for iOS and Android since 2023.
 
-# ★ I understand the product, decide what matters, design the system, build the software, make releases repeatable, verify the result, and explain the tradeoffs clearly.
+# ★ I understand the product, decide what matters, explain tradeoffs clearly, architect the system, build the software, make releases repeatable, and verify the result.
 
-# ★ I orchestrate AI coding agents using functional specifications, technical architecture, and persistent context before verifying their output through human review, automated testing, and manual QA.
+# ★ I orchestrate AI coding agents using functional specs, technical architecture, and persistent context, then I verify output through human code review, CI/CD, and manual QA.
 
 # ★ Expert in:
 
-- **Full-Stack TypeScript Monorepos** (Web + Mobile + Backend + Infrastructure + Shared Packages)
+- **Full-Stack Product Engineering** (Plan → Build → Test → Reflect)
 - **AI-Native Engineering** (Functional Specifications + Context Engineering + Agent Orchestration + Human Verification)
-- **End-to-End Product Ownership** (Define → Architect → Build → Verify → Release → Observe → Iterate)
-- **Production-Ready MVP Delivery ASAP** (Under 3 Months)
+- **TypeScript Monorepos** (Web + Mobile + Backend + Infrastructure + Shared Packages)
 - **UI/UX & Design Engineering** (Design Systems + Motion Design + Performance)
 - **Tailwind CSS & Component Systems** (shadcn/ui + React Native Reusables + Uniwind)
 - **Cross-Platform Web, iOS & Android** (Next.js + React Native + Expo)
