@@ -1,6 +1,6 @@
 # ★ I'm an AI-native senior full-stack SWE and UI/UX engineer. I'm actively seeking a long-term, full-time role as a senior full-stack product engineer at a US company.
 
-# ★ 20+ years of SWE · 9,000+ GitHub contributions this year · 500+ technical articles · 21k+ Medium followers · [DoctorDerek.com](https://DoctorDerek.com)
+# ★ 20+ years of SWE · 10,000+ GitHub contributions this year · 500+ technical articles · 21k+ Medium followers · [DoctorDerek.com](https://DoctorDerek.com)
 
 # ★ Full-stack product engineer specializing in TypeScript + React + Next.js + Tailwind CSS + Node.js since 2019 and in React Native + Expo for iOS and Android since 2023.
 
